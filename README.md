@@ -2,6 +2,9 @@
 
 Puzzle game made in HTML5 Phaser.
 
+<img width="400" alt="puzzle game screenshot 1" src="https://github.com/dejsan/puzzle-game/blob/master/img/puzzle-game-screenshot1.jpg">
+<img width="400" alt="puzzle game screenshot 2" src="https://github.com/dejsan/puzzle-game/blob/master/img/puzzle-game-screenshot2.jpg">
+
 # How to run
 
 Webserver is required because of security feature of phaser.
